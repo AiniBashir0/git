@@ -1,0 +1,12 @@
+yum -y install git
+git clone git@github.com:mahmadg/linuxdmz.git
+git config --global user.name "mahmadg"
+git config --global user.email "maghfoorahmadg@gmail.com"
+git clone git@github.com:mahmadg/aini.git
+git add .
+git commit -m "upgrading to new version"
+git push
+git add .
+git commit -m "upgrading to new version-2"
+ git push
+
