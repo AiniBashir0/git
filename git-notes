@@ -9,4 +9,4 @@ git push
 git add .
 git commit -m "upgrading to new version-2"
  git push
-dd ssh-key to github
+add ssh-key to github
